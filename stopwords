@@ -116,10 +116,6 @@ cuando
 cuanto
 cuatro
 cuenta
-d'un
-d'una
-d'unes
-d'uns
 da
 dado
 dalt
@@ -157,6 +153,10 @@ donat
 doncs
 donde
 dos
+dun
+duna
+dunes
+duns
 durant
 durante
 e
@@ -393,15 +393,15 @@ jueves
 julio
 junio
 junto
-l'hi
 la
 lado
 largo
 las
 le
 les
+lhi
 li
-li'n
+lin
 llarg
 llavors
 llego
@@ -412,7 +412,6 @@ los
 luego
 lugar
 lunes
-m'he
 ma
 mal
 malgrat
@@ -438,6 +437,7 @@ meu
 meus
 meva
 meves
+mhe
 mi
 mia
 mias
@@ -466,11 +466,11 @@ muchas
 mucho
 muchos
 muy
-n'he
-n'hi
 nada
 nadie
 ne
+nhe
+nhi
 ni
 ningun
 ninguna
@@ -588,8 +588,6 @@ realizado
 realizar
 realizo
 respecto
-s'ha
-s'han
 sa
 sabado
 sabe
@@ -639,6 +637,8 @@ seus
 seva
 seves
 señalo
+sha
+shan
 si
 sido
 siempre
@@ -675,9 +675,6 @@ suya
 suyas
 suyo
 suyos
-t'ha
-t'han
-t'he
 ta
 tal
 tambe
@@ -730,6 +727,9 @@ teu
 teus
 teva
 teves
+tha
+than
+the
 ti
 tiempo
 tiene
